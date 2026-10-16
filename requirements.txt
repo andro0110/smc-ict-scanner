@@ -1,0 +1,6 @@
+streamlit
+ccxt
+pandas
+numpy
+plotly
+asyncio
