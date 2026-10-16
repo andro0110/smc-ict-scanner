@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 import ccxt
 import ccxt.async_support as ccxta
